@@ -7,8 +7,8 @@ function App() {
     if (number <50) return <p>less than 50</p>
     if (number >50) return <p>bigger than 50</p>
   }
-    const firstname = "דורון";
-    const lastname = "שפריר"
+    const firstname = "moshe";
+    const lastname = "rabeinoo"
 
     function fullName() {
         return firstname + " " + lastname;
